@@ -1,0 +1,11 @@
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\bin\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.deps.json
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\bin\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.runtimeconfig.json
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\bin\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.runtimeconfig.dev.json
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\bin\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.dll
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\bin\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.pdb
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.csprojAssemblyReference.cache
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.csproj.CoreCompileInputs.cache
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.AssemblyInfoInputs.cache
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.AssemblyInfo.cs
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.dll
+C:\Users\rosie_kg2klnl\OneDrive\Escritorio\Tarea Programar\Tarea 2 Prueba 5252\Tarea 2 Prueba 5252\obj\Debug\netcoreapp2.1\Tarea 2 Prueba 5252.pdb
