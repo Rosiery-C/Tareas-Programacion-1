@@ -198,7 +198,7 @@ namespace Tarea_2_Prueba_5252
 
                     case 5:
                         {
-                            Console.ReadKey();
+                           
                         }break;
 
 

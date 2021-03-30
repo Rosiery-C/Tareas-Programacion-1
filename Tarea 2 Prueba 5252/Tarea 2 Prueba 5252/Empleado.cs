@@ -48,17 +48,17 @@ namespace Tarea_2_Prueba_5252
 
         public void mostrar()
         {
-            Console.WriteLine("Codigo Empleado" + Codigo_empleado);
-            Console.WriteLine("Nombre Empleado" + nombre_apellido);
-            Console.WriteLine("Numero de Contacto" + Telefono);
-            Console.WriteLine("Pago Salarial" + Salario);
-            Console.WriteLine("Puesto en la Empresa" + cargo);
+            Console.WriteLine("Codigo Empleado\n" + Codigo_empleado);
+            Console.WriteLine("Nombre Empleado\n" + nombre_apellido);
+            Console.WriteLine("Numero de Contacto\n" + Telefono);
+            Console.WriteLine("Pago Salarial\n" + Salario);
+            Console.WriteLine("Puesto en la Empresa\n" + cargo);
 
         }
 
     }
 
-    public class Producto : Empleado
+    public class Producto 
 
     { //atributos
 
@@ -95,15 +95,15 @@ namespace Tarea_2_Prueba_5252
 
         public void visualizar()
         {
-            Console.WriteLine("Codigo Producto" + Codigo_producto);
-            Console.WriteLine("Nombre Producto" + nombre_producto);
-            Console.WriteLine("Tipo de Producto" + tipo_producto);
-            Console.WriteLine("Precio Producto" + Precio_producto);
+            Console.WriteLine("Codigo Producto\n" + Codigo_producto);
+            Console.WriteLine("Nombre Producto\n" + nombre_producto);
+            Console.WriteLine("Tipo de Producto\n" + tipo_producto);
+            Console.WriteLine("Precio Producto\n" + Precio_producto);
 
         }
     }
 
-    public class Inventario : Empleado
+    public class Inventario
     {
         //atributos
 
@@ -145,17 +145,17 @@ namespace Tarea_2_Prueba_5252
 
         public void consultar()
         {
-            Console.WriteLine("Precio Compra" + Precio_compra);
-            Console.WriteLine("Precio Venta" + Precio_venta);
-            Console.WriteLine("Proveedor " + proveedor);
-            Console.WriteLine("Localidad" + localidad);
-            Console.WriteLine("Disponible en Inventario" + Cantidad_disponible);
+            Console.WriteLine("Precio Compra\n" + Precio_compra);
+            Console.WriteLine("Precio Venta\n" + Precio_venta);
+            Console.WriteLine("Proveedor\n " + proveedor);
+            Console.WriteLine("Localidad\n" + localidad);
+            Console.WriteLine("Disponible en Inventario\n" + Cantidad_disponible);
 
         }
 
     }
 
-    public class Ventas: Empleado
+    public class Ventas
     {
         //atributos y campos de clases 
         public string producto { set; get; }
@@ -164,6 +164,7 @@ namespace Tarea_2_Prueba_5252
         internal Empleado Empleado { get => Empleado; set => Empleado = value; }
         internal Inventario Inventario { get => Inventario; set => Inventario = value; }
         public string Cantidad_disponible { get; private set; }
+        public string Codigo_empleado { get; private set; }
 
         //constructor
         public Ventas()
@@ -186,12 +187,14 @@ namespace Tarea_2_Prueba_5252
 
         public void producto_Vendido()
         {
-            Console.WriteLine("Precio Compra" + producto);
-            Console.WriteLine("Precio Venta" + Codigo_empleado);
-            Console.WriteLine("Proveedor " + Cantidad_disponible);
+            Console.WriteLine("Precio Compra\n" + producto);
+            Console.WriteLine("Precio Venta\n" + Codigo_empleado);
+            Console.WriteLine("Proveedor\n " + Cantidad_disponible);
            
 
         }
 
     }
+
+   
 }
